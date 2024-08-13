@@ -51,6 +51,7 @@ b=lr.intercept_
 b
 ```
 
+
 ## Output:
 ![image](https://github.com/harini1006/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113497405/e74202dc-3e2f-48db-8d2f-84dc9aa4cdeb)
 
